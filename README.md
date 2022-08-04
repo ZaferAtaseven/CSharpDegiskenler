@@ -1,2 +1,2 @@
 # CSharpDegiskenler
-[www.patika.dev](www.patika.dev)
+[www.patika.dev](https://app.patika.dev)
